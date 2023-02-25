@@ -1,0 +1,25 @@
+body {
+	background-color: #bad7f2;
+	color: floralwhite;
+}
+
+ul {
+	text-align: center;
+	list-style-position: inside;
+}
+
+#header {
+	text-align: center;
+	padding: 20px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+
+#information {
+	text-align: center;
+}
+
+#imageContainer {
+	text-align: center;
+	padding-top: 20px;
+}
